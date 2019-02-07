@@ -26,7 +26,7 @@ const testVar = {
         a : 'Hello',
         b : 4,
         c : 7,
-    },
+    }
 };
 console.log(testVar);
 
